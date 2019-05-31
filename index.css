@@ -1,0 +1,184 @@
+body
+{
+   background-color: #C0C0C0;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Layer1
+{
+   background-color: #00BFFF;
+   background-image: none;
+}
+#Layer2
+{
+   background-color: #FAFAFA;
+   background-image: none;
+}
+#TextArt1
+{
+   border-width: 0;
+}
+#Layer3
+{
+   background-color: #00BFFF;
+   background-image: none;
+}
+#Layer4
+{
+   background-color: #FAFAFA;
+   background-image: none;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: justify;
+}
+#wb_Text1 div
+{
+   text-align: justify;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Line1
+{
+   color: #00BFFF;
+   background-color: #00BFFF;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#Line2
+{
+   color: #00BFFF;
+   background-color: #00BFFF;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#Line3
+{
+   color: #00BFFF;
+   background-color: #00BFFF;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+}
+#TextArt2
+{
+   border-width: 0;
+}
+#TextArt3
+{
+   border-width: 0;
+}
+#TextArt4
+{
+   border-width: 0;
+}
+#wb_CssMenu1
+{
+   border: 0px #FFFFFF solid;
+   background-color: transparent;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 4px 0px 0px;
+   width: 260px;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #000000;
+   border: 0px #C0C0C0 none;
+   background-color: transparent;
+   background-image: none;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   font-style: normal;
+   text-decoration: none;
+   width: 250px;
+   height: 50px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   line-height: 50px;
+   text-align: center;
+   -moz-box-shadow: 0px 0px 11px #00BFFF;
+   -webkit-box-shadow: 0px 0px 11px #00BFFF;
+   box-shadow: 0px 0px 11px #00BFFF;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover, #wb_CssMenu1 .active
+{
+   color: #FF0000;
+   background-color: transparent;
+   background-image: none;
+   border: 0px #C0C0C0 none;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
